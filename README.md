@@ -5,4 +5,4 @@ The game is an arcade style, top-down, shooter where the player is attempting to
 
 This project is not deployed and finalized and is meant to be an archive for viewing program source files. 
 
-To view the C# source files navigate to /ProjectOne/Assets//Scripts 
+Because of the size of the project and the assets, I have only included the C# script files of the game for viewing. 
